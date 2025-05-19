@@ -15,8 +15,8 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ВАШ_РЕПОЗИТОРИЙ>
-   cd <ВАШ_РЕПОЗИТОРИЙ>
+   git clone https://github.com/MityaiGer/reposter-telegram-bot
+   cd reposter-telegram-bot
    ```
 2. Установите зависимости:
    ```bash
